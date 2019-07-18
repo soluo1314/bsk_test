@@ -342,7 +342,7 @@ export default {
           }
         }
         span {
-          font-size: 3.2vw;
+          font-size: 3.8vw;
         }
       }
     }
